@@ -17,7 +17,7 @@ rvContainer.setAdapter(new SampleAdapter(this));
 SampleAdapter code was too long,just read the sample from the source code.
 
 # Preview
-![gif](../preview.gif)
+![gif](https://github.com/maxwell-nc/ColumnsRecyclerView/blob/master/preview.gif?raw=true)
 
 # Notice
 This view will load list data in once,so if you need load many data,your should desgin a paging logic to controll it or it will be to slow to load.
